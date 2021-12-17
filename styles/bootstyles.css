@@ -1,0 +1,69 @@
+
+.tableau-nav {
+    color: white;
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.tableau-bg {
+    background-image: url('../images/tableaubackground.jpeg');
+    background-size: 1000px;
+    margin-bottom: 100px;
+}   
+a:visited {
+    color: pink;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.chartsize{
+    size: 500px;
+}
+
+p{
+    font-family: sans-serif;
+    margin-bottom: 150px;
+    text-align: right;
+    font-size: 20px;
+    color: rgb(247, 247, 247);
+}
+
+.bgcolor {
+    background-color:rgb(28, 28, 129);
+}
+
+.footer {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-top: whitesmoke dotted;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.end {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(247, 247, 247);
+}
+
+.smallmargin {
+    margin-bottom: 75px;
+}
+
+.left {
+    text-align: left;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 60px;
+    margin-left: 20px;
+    font-weight: bold;
+}
